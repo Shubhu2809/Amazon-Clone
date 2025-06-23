@@ -24,12 +24,6 @@ Amazon-clone-main/
 - ✔️ Fully styled footer
 - ✔️ Mobile-responsive design (basic)
 
-## 📸 Screenshots
-
-> *(Add screenshots from the rendered page)*  
-> Example:  
-> ![Homepage Screenshot](./images/screenshot.png)
-
 ## 🚀 How to Run the Project
 
 1. Download or clone this repository
